@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\ksyx7\Documents\GitHub\HOI4-AutoLoc\Loc-issues-resolver\out\artifacts\localization_comparator_jar\localization-comparator.jar</jar>
+  <outfile>C:\Users\ksyx7\Documents\GitHub\HOI4-AutoLoc\Loc-issues-resolver\out\HOI4 Localisation Comparator.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\ksyx7\Documents\GitHub\HOI4-AutoLoc\Loc-issues-resolver\src\main\resources\logo.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
