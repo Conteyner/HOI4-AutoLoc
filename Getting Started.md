@@ -41,7 +41,7 @@ Localization Comparator – инструмент для автоматизаци
 1. Откройте командную строку (CMD).
 2. Введите следующую команду для скачивания и запуска LibreTranslate:
 ```Ruby
-docker run -d -p 5000:5000 libretranslate/libretranslate
+docker run -d -p 5000:5000 libretranslate/libretranslate --languages ru,en
 ```
 ```-d``` запускает контейнер в фоновом режиме. <br>
 ```-p``` 5000:5000 пробрасывает порт 5000 из контейнера на ваш локальный компьютер. <br> 
